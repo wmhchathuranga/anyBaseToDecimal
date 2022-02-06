@@ -4,6 +4,7 @@ This is a simple python Script to convert any based number to base 10 integer.
 Also this is created to help you understand how the convertion is Done,
 
 ##Sample Output
+
 python .\ToDecimal.py 1011 2
 
 1011 base 2
